@@ -29,6 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Projeto Finalizado]()
+- [Projeto Finalizado](https://gabrielsouza18.github.io/Lista_de_Compras/)
 
 Feito com ♥ by Gabriel
