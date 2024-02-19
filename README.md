@@ -2,10 +2,10 @@
   <img  src="" width="35%" >
 </p> -->
 
-<p align="center">
+<h2 align="center">
 Lista de compras simples em ReactJS<br/>
 
-</p>
+</h2>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
